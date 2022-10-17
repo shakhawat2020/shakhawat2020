@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shakhawat Hossain
+- 👋 Hi, I’m @Shakhawat Hossain
 - 👀 I’m interested in Hacking & web-app Development 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
